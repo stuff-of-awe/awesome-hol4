@@ -1,3 +1,4 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 # Awesome HOL4
 
 Learn interactive higher-order logic with theories, tactics and reusable libraries.
